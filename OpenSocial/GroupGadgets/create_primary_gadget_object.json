@@ -1,0 +1,8 @@
+{
+    "GroupGadget": {
+        "__metadata": {
+            "uri": "GroupGadgets('ENTER_YOUR_GROUPGADGET_ID')"
+        }
+    },
+    "InitializingDataJSON": "{\"hello\": {\"a\": 1, \"b\": \"world\"}}"
+}
